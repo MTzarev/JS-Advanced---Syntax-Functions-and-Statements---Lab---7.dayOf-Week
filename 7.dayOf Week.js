@@ -30,5 +30,4 @@ function dayOfWeek(day) {
     console.log(res);
 }
 dayOfWeek(`Monday`);
-dayOfWeek(`Friday`);
 dayOfWeek(`Invalid`);
